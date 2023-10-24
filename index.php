@@ -8,5 +8,10 @@
 <body>
     <h1>hello word</h1>
     <p>paragraf</p>
+    <ul>
+        <li>
+            <p>ini adalah list</p>
+        </li>
+    </ul>
 </body>
 </html>
